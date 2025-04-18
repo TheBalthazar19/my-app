@@ -33,7 +33,7 @@ export default function Header() {
         <div className="flex justify-between items-center py-4 md:justify-start md:space-x-10">
           <div className="flex justify-start lg:w-0 lg:flex-1">
             <Link href="/">
-              <span className="text-2xl font-bold">Aman Kumar</span>
+              <span className="text-2xl font-bold">Rishav Shekhar</span>
             </Link>
           </div>
           
