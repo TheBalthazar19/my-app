@@ -4,7 +4,7 @@ export default function Profile() {
   return (
     <section id="profile" className="min-h-screen flex items-center bg-white dark:bg-black relative">
       <div className="absolute inset-0 z-0">
-        <div className="h-full w-full bg-[url('/images/grid-pattern.svg')] opacity-5"></div>
+        <div className="h-full w-full bg-[url('/file.svg')] opacity-5"></div>
       </div>
       
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
@@ -42,7 +42,7 @@ export default function Profile() {
               
               <Image 
                 src="/profile-image.png" 
-                alt="Aman Kumar"
+                alt="Rishav Shekhar"
                 fill
                 style={{ objectFit: 'cover' }}
                 priority
