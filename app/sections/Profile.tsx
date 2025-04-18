@@ -12,12 +12,12 @@ export default function Profile() {
           <div className="md:w-1/2 mb-10 md:mb-0">
             <h1 className="text-5xl md:text-6xl font-bold mb-4">
               Hi, I&apos;m <span className="inline-block relative">
-                Aman Kumar
+                Rishav Shekhar
                 <span className="absolute bottom-0 left-0 right-0 h-2 bg-gray-300 dark:bg-gray-700 rounded-full"></span>
               </span>
             </h1>
             <p className="text-xl md:text-2xl text-gray-600 dark:text-gray-400 mb-8">
-              Full Stack Developer & Designer
+              Full Stack Developer
             </p>
             <p className="text-lg mb-8">
               I build exceptional digital experiences with clean, efficient code and thoughtful design.

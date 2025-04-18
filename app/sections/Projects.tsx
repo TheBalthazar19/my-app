@@ -8,7 +8,7 @@ export default function Projects() {
             id: 1,
             title: 'E-commerce Platform',
             description: 'A fully functional e-commerce site with cart, checkout, and payment integration.',
-            imageUrl: '/images/project1.jpg',
+            imageUrl: './public/file.svg',
             technologies: ['React', 'Next.js', 'Stripe', 'MongoDB'],
             demoUrl: 'https://example.com/demo1',
             codeUrl: 'https://github.com/yourusername/project1'
@@ -17,7 +17,7 @@ export default function Projects() {
             id: 2,
             title: 'Task Management App',
             description: 'A collaborative task management application with real-time updates.',
-            imageUrl: '/images/project2.jpg',
+            imageUrl: './public/file.svg',
             technologies: ['React', 'Firebase', 'Tailwind CSS'],
             demoUrl: 'https://example.com/demo2',
             codeUrl: 'https://github.com/yourusername/project2'
@@ -26,7 +26,7 @@ export default function Projects() {
             id: 3,
             title: 'Personal Blog',
             description: 'A blog platform with markdown support and comment system.',
-            imageUrl: '/images/project3.jpg',
+            imageUrl: './public/file.svg',
             technologies: ['Next.js', 'GraphQL', 'PostgreSQL'],
             demoUrl: 'https://example.com/demo3',
             codeUrl: 'https://github.com/yourusername/project3'
@@ -35,7 +35,7 @@ export default function Projects() {
             id: 4,
             title: 'Weather App',
             description: 'A weather application that displays forecast data for any location.',
-            imageUrl: '/images/project4.jpg',
+            imageUrl: './public/file.svg',
             technologies: ['JavaScript', 'OpenWeather API', 'CSS'],
             demoUrl: 'https://example.com/demo4',
             codeUrl: 'https://github.com/yourusername/project4'

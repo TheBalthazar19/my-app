@@ -10,19 +10,19 @@ export default function About() {
         >
             <div className="max-w-3xl mx-auto">
                 <p className="text-lg mb-6">
-                    Hello! I&apos;m Aman Kumar, a passionate developer with expertise in building modern web applications.
+                    Hello! I&apos;m Rishav Shekhar, a passionate developer with expertise in building modern web applications.
                     I enjoy solving complex problems and creating intuitive, dynamic user experiences.
                 </p>
 
                 <p className="text-lg mb-6">
-                    With over X years of experience in web development, I&apos;ve worked on a variety of projects ranging
+                    With over 2 years of experience in web development, I&apos;ve worked on a variety of projects ranging
                     from small business websites to complex enterprise applications. My approach combines technical
                     excellence with creative problem-solving.
                 </p>
 
                 <p className="text-lg mb-6">
-                    When I&apos;m not coding, you can find me hiking in nature, reading about new technologies, or
-                    experimenting with photography. I believe in continuous learning and always strive to improve my
+                    When I&apos;m not coding, you can find me reading a book in a corner, reading about new worlds and tuff, or
+                    listening to music. I believe in continuous learning and always strive to improve my
                     skills and stay updated with the latest industry trends.
                 </p>
 
